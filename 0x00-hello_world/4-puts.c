@@ -1,8 +1,8 @@
 #include <stdio>
 /**
- *main - entry point
+ * main - entry point
  *
- * return: 0 after run funtion
+ * return: Always 0 (Success)
  */
 
 int main(void)
