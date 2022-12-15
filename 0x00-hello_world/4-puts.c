@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include <stdio>
 /**
- * *main - entry point
- * *
- * *Return: 0 after printing function
- * */
+ *main - entry point
+ *
+ * return: 0 after run funtion
+ */
 
 int main(void)
 {
