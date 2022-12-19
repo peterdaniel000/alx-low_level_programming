@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * print_array - print n array
+ * print_array - printing n of an array
  * @a: int parameter
  * @n: int parameter
  * Return: Nothing
@@ -16,7 +16,7 @@ printf("%d", a[i]);
 i++;
 n--;
 }
-for (n > 0; n--;)
+for (n > 0; n--);
 {
 printf("%d", a[i]);
 i++;
