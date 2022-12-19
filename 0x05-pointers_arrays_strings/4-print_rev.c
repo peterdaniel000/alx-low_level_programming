@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdio.h>
 /**
  * print_rev - reverse
  * @s - char parameter
