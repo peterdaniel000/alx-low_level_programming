@@ -18,7 +18,7 @@ n--;
 }
 for (; n > 0; n--)
 {
-printf("%d", a[i]);
+printf(", %d", a[i]);
 i++;
 }
 printf("\n");
