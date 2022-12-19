@@ -2,7 +2,7 @@
 
 /**
  * print_array - printing n of an array
- * @a: thats our array
+ * @a: that's our array
  * @n: this is the #
  * Return: void
  */
