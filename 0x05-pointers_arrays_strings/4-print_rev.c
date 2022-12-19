@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * print_rev - reverse
- * @s - char parameter
+ * @s: char parameter
  * Return: Nothing
  */
 
