@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 /**
- * int_strlen - lenght
+ * _strlen - lenght
  * @s: int parameter
  * Return: int of s
  */
