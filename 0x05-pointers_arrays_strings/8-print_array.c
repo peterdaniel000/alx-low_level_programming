@@ -16,7 +16,7 @@ printf("%d", a[i]);
 i++;
 n--;
 }
-for (n > 0; n--)
+for (; n > 0; n--)
 {
 printf("%d", a[i]);
 i++;
