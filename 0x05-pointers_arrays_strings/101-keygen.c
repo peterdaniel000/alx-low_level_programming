@@ -32,25 +32,25 @@ for (i = 0; i < N; i++)
 if (randomizer == 1)
 {
 password[i] = number[rand() % 10];
-randomizer = rand() % 4;
+randomizer = int (*)(void);
 printf("%c", password[i]);
 }
 else if (randomizer == 2)
 {
 password[i] = symbol[rand() % 8];
-randomizer = rand() % 4;
+randomizer = int (*)(void);
 printf("%c", password[i]);
 }
 else if (randomizer == 3)
 {
 password[i] = LETTER[rand() % 26];
-randomizer = rand % 4;
+randomizer = int (*)(void);
 printf("%c", password[i]);
 }
 else
 {
 password[i] = letter[rand() % 26];
-randomizer = rand % 4;
+randomizer = int (*)(void)
 printf("%c", password[i]);
 }
 }
