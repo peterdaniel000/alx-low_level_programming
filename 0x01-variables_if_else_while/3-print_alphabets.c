@@ -14,7 +14,7 @@ putchar(ch);
 printf("\n");
 
 for (chN = 'A'; chN <= 'Z'; chN++)
-putchar(n);
+putchar(chN);
 printf("\n");
 return (0);
 }
