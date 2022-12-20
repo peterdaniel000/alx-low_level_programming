@@ -11,7 +11,6 @@ char ch = 'a';
 char chN = 'A';
 for (ch = 'a'; ch <= 'z'; ch++)
 putchar(ch);
-printf("\n");
 
 for (chN = 'A'; chN <= 'Z'; chN++)
 putchar(chN);
