@@ -3,6 +3,8 @@
  * string_toupper - function to capitalize letters in string
  * @s: that's the string
  *
+ *
+ *
  * Return: char
  */
 char *string_toupper(char *s)
