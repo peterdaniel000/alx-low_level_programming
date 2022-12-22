@@ -1,9 +1,8 @@
-#include <stdio.h>
 #include <string.h>
 /**
- * *_strcat - more on it
+ * *_strcat - moe on it
  * @dest: char parameter
- * @src: char
+ * @src: char parameter
  * Return: char string
  */
 char *_strcat(char *dest, char *src)
