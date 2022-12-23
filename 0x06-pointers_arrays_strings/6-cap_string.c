@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- * cap_string- a function to cap first letters of words in string
- *  @s: that's our string
- *
- *
- *
- *  Return: answer
- */
+  * cap_string- a function to cap first letters of words in string
+  *  @s: that's our string
+  *
+  *
+  *
+  *  Return: answer
+  */
 char *cap_string(char *s)
 {
 	int i = 0;
