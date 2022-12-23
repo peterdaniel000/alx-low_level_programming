@@ -22,12 +22,12 @@ char *cap_string(char *s)
 				*s -= 32;
 			z = 0;
 		}
-	for (i = 0; spesh[i]; i++)
-	{
-		if (*s == spesh[i])
-			z = 1;
-	}
-	s++;
+		for (i = 0; spesh[i]; i++)
+		{
+			if (*s == spesh[i])
+				z = 1;
+		}
+		s++;
 	}
 	return (answer);
 }
