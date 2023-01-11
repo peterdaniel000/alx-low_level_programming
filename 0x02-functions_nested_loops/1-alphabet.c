@@ -14,4 +14,5 @@ void print_alphabet(void)
 	{
 		_putchar(dan);
 	}
+	_putchar("\n");
 }
