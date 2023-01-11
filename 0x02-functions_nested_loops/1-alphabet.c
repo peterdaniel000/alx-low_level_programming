@@ -3,7 +3,7 @@
 /**
  * print_alphabet - entry point
  *
- * Return: 0 after run function
+ * Return: null
  */
 
 void print_alphabet(void)
@@ -14,5 +14,4 @@ void print_alphabet(void)
 	{
 		_putchar(dan);
 	}
-	return (0);
 }
