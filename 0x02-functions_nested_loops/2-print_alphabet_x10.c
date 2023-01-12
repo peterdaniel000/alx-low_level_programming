@@ -9,8 +9,7 @@
 void print_alphabet_x10(void)
 {
 	char dan = 'a'
-	int count;
-	int x;
+	int x = 0;
 
 	while (x < 10)
 	{
