@@ -9,22 +9,16 @@
 
 int print_sign(int n)
 {
-	int i;
-
-	for (i = 0; i <= 135; i++)
+	if (n > 0)
 	{
-		if (i > n)
-		{
-			return (+1);
-		}
-		else if (i < n)
-		{
-			return (-1);
-		}
-		else
-		{
-			return (0);
-		}
+		return (+1);
 	}
-	return (n);
+	else if (n < 0)
+	{
+		return (-1);
+	}
+	else
+	{
+		return (0);
+	}
 }
