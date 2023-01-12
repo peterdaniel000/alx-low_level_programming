@@ -15,7 +15,7 @@ int print_sign(int n)
 	{
 		if (i > n)
 		{
-			return (1);
+			return (+1);
 		}
 		else if (i < n)
 		{
