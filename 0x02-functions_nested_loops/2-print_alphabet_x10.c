@@ -8,14 +8,10 @@
 
 void print_alphabet_x10(void)
 {
-	char dan = 'a';
+	char dan = "abcdefghijklmnopqrstuvwxyz;
 
-	for (dan = 'a'; dan <= 'z'; dan++)
+	for (dan = 0; dan <= 10; dan++)
 	{
-		for (dan = 0; dan <= 10; dan++)
-		{
-			return;
-		}
 		_putchar(dan);
 	}
 	_putchar('\n');
