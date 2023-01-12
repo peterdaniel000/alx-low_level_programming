@@ -18,7 +18,7 @@ void print_alphabet_x10(void)
 		{
 			_putchar(dan[count]);
 		}
-		_putchar('\n')
+		_putchar('\n');
 		x++;
 	}
 }
