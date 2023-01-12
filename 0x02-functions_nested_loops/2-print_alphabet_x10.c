@@ -14,7 +14,7 @@ void print_alphabet_x10(void)
 	{
 		for (dan = 0; dan <= 10; dan++)
 		{
-			return (dan);
+			printf("%c", dan);
 		}
 		_putchar(dan);
 	}
