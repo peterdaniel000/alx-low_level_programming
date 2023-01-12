@@ -8,11 +8,17 @@
 
 void print_alphabet_x10(void)
 {
-	char *dan = "abcdefghijklmnopqrstuvwxyz";
+	char dan[26] = "abcdefghijklmnopqrstuvwxyz";
+	int count;
+	int x;
 
-	for (dan = 0; dan <= 10; dan++)
+	while (x < 10)
 	{
-		_putchar(dan);
+		for (count = 0; count <= 10; count++)
+		{
+			_putchar(dan[count]);
+		}
+		x++;
 	}
 	_putchar('\n');
 }
