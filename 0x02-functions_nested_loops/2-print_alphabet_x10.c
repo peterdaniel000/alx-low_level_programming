@@ -8,7 +8,7 @@
 
 void print_alphabet_x10(void)
 {
-	char dan = "abcdefghijklmnopqrstuvwxyz;
+	char dan = "abcdefghijklmnopqrstuvwxyz";
 
 	for (dan = 0; dan <= 10; dan++)
 	{
